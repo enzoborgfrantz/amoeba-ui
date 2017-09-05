@@ -1,2 +1,2 @@
-# rollup-library-boiler
-A boilerplate project for libraries using rollup
+# amoeba-ui
+A react component library
